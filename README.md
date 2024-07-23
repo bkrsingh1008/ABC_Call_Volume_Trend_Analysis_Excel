@@ -33,9 +33,13 @@ Insights and Results:
 --------------------------------
 Based on my analysis, I have derived the following insights to facilitate data-driven business decisions:
 
-. Higher Call Duration in Evenings: The average duration of calls is significantly higher during the evening hours (4 PM to 7 PM) and lower during the initial login period (9 AM to 11 AM).
-. Average Call Duration: Agents sustain an average call duration of 198 seconds for answered calls.
-. High Abandonment Rate in Mornings: The number of abandoned calls peaks between 9 AM and 12 PM, likely due to agents attending meetings during this time.
-. Reducing Abandoned Calls: Currently, 30% of calls are abandoned. To reduce this rate to 10%, it is recommended to increase manpower from 9 AM to 9 PM.
-. Night Shift Staffing: To further decrease the abandonment rate across all time buckets, it is suggested to assign additional agents during night hours.
+Higher Call Duration in Evenings: The average duration of calls is significantly higher during the evening hours (4 PM to 7 PM) and lower during the initial login period (9 AM to 11 AM).
+
+Average Call Duration: Agents sustain an average call duration of 198 seconds for answered calls.
+
+High Abandonment Rate in Mornings: The number of abandoned calls peaks between 9 AM and 12 PM, likely due to agents attending meetings during this time.
+
+Reducing Abandoned Calls: Currently, 30% of calls are abandoned. To reduce this rate to 10%, it is recommended to increase manpower from 9 AM to 9 PM.
+
+Night Shift Staffing: To further decrease the abandonment rate across all time buckets, it is suggested to assign additional agents during night hours.
 
